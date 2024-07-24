@@ -32,3 +32,5 @@ File List:
 
 "OBfmt_5-1500.npy" -> Helper file for "extract_Rg" containing precalulated terms.
 "theory_functions" -> .py helper file for "extract_Rg" containing constants and functions needed for R_g calculation.
+
+Weights files are not provided here, but will be sent with a dropbox link upon request. Please email kghosh@du.edu
